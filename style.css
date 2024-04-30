@@ -104,3 +104,28 @@ form p{
 .checkbox{
     margin: 20px 0;
 }
+.enviar{
+    width: 40%;
+    padding: 15px 0;
+    background: orange;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+
+    background: red;
+    transform: scale(1/2);
+}
+table{
+    margin: 40px 0 40px;
+}
+thead{
+    background-color: #555555;
+    color: white;
+    font-size: bold;
+}
+td, tr{
+    border: 1px solid black;
+    padding: 8px 15px;
+}
